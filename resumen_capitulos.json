@@ -1,0 +1,333 @@
+[
+				{
+                "Testament": "Old",    
+                "Book":"Génesis",
+                "BoookNumber":1, 
+                "Total_Chapters": 50
+                },{
+                "Testament": "Old",    
+                "Book":"Éxodo",
+                "BoookNumber":2, 
+                "Total_Chapters": 40
+                },{
+                "Testament": "Old",    
+                "Book":"Levítico",
+                "BoookNumber":3, 
+                "Total_Chapters": 27
+                },{
+                "Testament": "Old",    
+                "Book":"Números",
+                "BoookNumber":4, 
+                "Total_Chapters": 36
+                },{
+                "Testament": "Old",    
+                "Book":"Deuteronomio",
+                "BoookNumber":5, 
+                "Total_Chapters": 34
+                },{
+                "Testament": "Old",    
+                "Book":"Josué",
+                "BoookNumber":6, 
+                "Total_Chapters": 24
+                },{
+                "Testament": "Old",    
+                "Book":"Jueces",
+                "BoookNumber":7, 
+                "Total_Chapters": 21
+                },{
+                "Testament": "Old",    
+                "Book":"Rut",
+                "BoookNumber":8, 
+                "Total_Chapters": 4
+                },{
+                "Testament": "Old",    
+                "Book":"1 Samuel",
+                "BoookNumber":9, 
+                "Total_Chapters": 31
+                },{
+                "Testament": "Old",    
+                "Book":"2 Samuel",
+                "BoookNumber":10, 
+                "Total_Chapters": 24
+                },{
+                "Testament": "Old",    
+                "Book":"1 Reyes",
+                "BoookNumber":11, 
+                "Total_Chapters": 22
+                },{
+                "Testament": "Old",    
+                "Book":"2 Reyes",
+                "BoookNumber":12, 
+                "Total_Chapters": 25
+                },{
+                "Testament": "Old",    
+                "Book":"1 Crónicas",
+                "BoookNumber":13, 
+                "Total_Chapters": 29
+                },{
+                "Testament": "Old",    
+                "Book":"2 Crónicas",
+                "BoookNumber":14, 
+                "Total_Chapters": 36
+                },{
+                "Testament": "Old",    
+                "Book":"Esdras",
+                "BoookNumber":15, 
+                "Total_Chapters": 10
+                },{
+                "Testament": "Old",    
+                "Book":"Nehemías",
+                "BoookNumber":16, 
+                "Total_Chapters": 13
+                },{
+                "Testament": "Old",    
+                "Book":"Ester",
+                "BoookNumber":17, 
+                "Total_Chapters": 10
+                },{
+                "Testament": "Old",    
+                "Book":"Job",
+                "BoookNumber":18, 
+                "Total_Chapters": 42
+                },{
+                "Testament": "Old",    
+                "Book":"Salmos",
+                "BoookNumber":19, 
+                "Total_Chapters": 150
+                },{
+                "Testament": "Old",    
+                "Book":"Proverbios",
+                "BoookNumber":20, 
+                "Total_Chapters": 31
+                },{
+                "Testament": "Old",    
+                "Book":"Eclesiastés",
+                "BoookNumber":21, 
+                "Total_Chapters": 12
+                },{
+                "Testament": "Old",    
+                "Book":"Cantares",
+                "BoookNumber":22, 
+                "Total_Chapters": 8
+                },{
+                "Testament": "Old",    
+                "Book":"Isaías",
+                "BoookNumber":23, 
+                "Total_Chapters": 66
+                },{
+                "Testament": "Old",    
+                "Book":"Jeremías",
+                "BoookNumber":24, 
+                "Total_Chapters": 52
+                },{
+                "Testament": "Old",    
+                "Book":"Lamentaciones",
+                "BoookNumber":25, 
+                "Total_Chapters": 5
+                },{
+                "Testament": "Old",    
+                "Book":"Ezequiel",
+                "BoookNumber":26, 
+                "Total_Chapters": 48
+                },{
+                "Testament": "Old",    
+                "Book":"Daniel",
+                "BoookNumber":27, 
+                "Total_Chapters": 12
+                },{
+                "Testament": "Old",    
+                "Book":"Oseas",
+                "BoookNumber":28, 
+                "Total_Chapters": 14
+                },{
+                "Testament": "Old",    
+                "Book":"Joel",
+                "BoookNumber":29, 
+                "Total_Chapters": 3
+                },{
+                "Testament": "Old",    
+                "Book":"Amós",
+                "BoookNumber":30, 
+                "Total_Chapters": 9
+                },{
+                "Testament": "Old",    
+                "Book":"Abdías",
+                "BoookNumber":31, 
+                "Total_Chapters": 1
+                },{
+                "Testament": "Old",    
+                "Book":"Jonás",
+                "BoookNumber":32, 
+                "Total_Chapters": 4
+                },{
+                "Testament": "Old",    
+                "Book":"Miqueas",
+                "BoookNumber":33, 
+                "Total_Chapters": 7
+                },{
+                "Testament": "Old",    
+                "Book":"Nahúm",
+                "BoookNumber":34, 
+                "Total_Chapters": 3
+                },{
+                "Testament": "Old",    
+                "Book":"Habacuc",
+                "BoookNumber":35, 
+                "Total_Chapters": 3
+                },{
+                "Testament": "Old",    
+                "Book":"Sofonías",
+                "BoookNumber":36, 
+                "Total_Chapters": 3
+                },{
+                "Testament": "Old",    
+                "Book":"Hageo",
+                "BoookNumber":37, 
+                "Total_Chapters": 2
+                },{
+                "Testament": "Old",    
+                "Book":"Zacarías",
+                "BoookNumber":38, 
+                "Total_Chapters": 14
+                },{
+                "Testament": "Old",    
+                "Book":"Malaquías",
+                "BoookNumber":39, 
+                "Total_Chapters": 4
+                },{
+                "Testament": "New",    
+                "Book":"Mateo",
+                "BoookNumber":40, 
+                "Total_Chapters": 28
+                },{
+                "Testament": "New",    
+                "Book":"Marcos",
+                "BoookNumber":41, 
+                "Total_Chapters": 16
+                },{
+                "Testament": "New",    
+                "Book":"Lucas",
+                "BoookNumber":42, 
+                "Total_Chapters": 24
+                },{
+                "Testament": "New",    
+                "Book":"Juan",
+                "BoookNumber":43, 
+                "Total_Chapters": 21
+                },{
+                "Testament": "New",    
+                "Book":"Hechos",
+                "BoookNumber":44, 
+                "Total_Chapters": 28
+                },{
+                "Testament": "New",    
+                "Book":"Romanos",
+                "BoookNumber":45, 
+                "Total_Chapters": 16
+                },{
+                "Testament": "New",    
+                "Book":"1 Corintios",
+                "BoookNumber":46, 
+                "Total_Chapters": 16
+                },{
+                "Testament": "New",    
+                "Book":"2 Corintios",
+                "BoookNumber":47, 
+                "Total_Chapters": 13
+                },{
+                "Testament": "New",    
+                "Book":"Gálatas",
+                "BoookNumber":48, 
+                "Total_Chapters": 6
+                },{
+                "Testament": "New",    
+                "Book":"Efesios",
+                "BoookNumber":49, 
+                "Total_Chapters": 6
+                },{
+                "Testament": "New",    
+                "Book":"Filipenses",
+                "BoookNumber":50, 
+                "Total_Chapters": 4
+                },{
+                "Testament": "New",    
+                "Book":"Colosenses",
+                "BoookNumber":51, 
+                "Total_Chapters": 4
+                },{
+                "Testament": "New",    
+                "Book":"1 Tesalonicenses",
+                "BoookNumber":52, 
+                "Total_Chapters": 5
+                },{
+                "Testament": "New",    
+                "Book":"2 Tesalonicenses",
+                "BoookNumber":53, 
+                "Total_Chapters": 3
+                },{
+                "Testament": "New",    
+                "Book":"1 Timoteo",
+                "BoookNumber":54, 
+                "Total_Chapters": 6
+                },{
+                "Testament": "New",    
+                "Book":"2 Timoteo",
+                "BoookNumber":55, 
+                "Total_Chapters": 4
+                },{
+                "Testament": "New",    
+                "Book":"Tito",
+                "BoookNumber":56, 
+                "Total_Chapters": 3
+                },{
+                "Testament": "New",    
+                "Book":"Filemón",
+                "BoookNumber":57, 
+                "Total_Chapters": 1
+                },{
+                "Testament": "New",    
+                "Book":"Hebreos",
+                "BoookNumber":58, 
+                "Total_Chapters": 13
+                },{
+                "Testament": "New",    
+                "Book":"Santiago",
+                "BoookNumber":59, 
+                "Total_Chapters": 5
+                },{
+                "Testament": "New",    
+                "Book":"1 Pedro",
+                "BoookNumber":60, 
+                "Total_Chapters": 5
+                },{
+                "Testament": "New",    
+                "Book":"2 Pedro",
+                "BoookNumber":61, 
+                "Total_Chapters": 3
+                },{
+                "Testament": "New",    
+                "Book":"1 Juan",
+                "BoookNumber":62, 
+                "Total_Chapters": 5
+                },{
+                "Testament": "New",    
+                "Book":"2 Juan",
+                "BoookNumber":63, 
+                "Total_Chapters": 1
+                },{
+                "Testament": "New",    
+                "Book":"3 Juan",
+                "BoookNumber":64, 
+                "Total_Chapters": 1
+                },{
+                "Testament": "New",    
+                "Book":"Judas",
+                "BoookNumber":65, 
+                "Total_Chapters": 1
+                },{
+                "Testament": "New",    
+                "Book":"Apocalipsis",
+                "BoookNumber":66, 
+                "Total_Chapters": 22
+                }
+]
